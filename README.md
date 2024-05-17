@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
    
 3. **Preview index.html with Live Server**
 
-If you are using Visual Studio Code, right-click on index.html and select Open with Live Server.
+If you are using Visual Studio Code, right-click on index.html and select Open with Live Server.      
 Alternatively, use preferred method to launch index.html via a live server.
 
 4. **Contributors**
